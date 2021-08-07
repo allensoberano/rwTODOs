@@ -1,4 +1,4 @@
-#Arts'n' Crafts
+#Updated Arts'n' Crafts
 
 - [ ] Glass Blowing
 - [ ] Drawing 
